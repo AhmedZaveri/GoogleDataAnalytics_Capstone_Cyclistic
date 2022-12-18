@@ -1,5 +1,8 @@
 Cyclistic CSV Files:
 https://1drv.ms/u/s!AnooergEPCzZguFSRjnfCRhpShI3Dw?e=lZ3njA
 
+Cyclistic XLS Files:
+https://1drv.ms/u/s!AnooergEPCzZguFzclqrCJa03aPmHQ?e=LK0WHD
+
 Cyclistic Tableau Dashboard Link:
 https://public.tableau.com/views/Cyclistic-GoogleDataAnalytics/Casual_Users_vs_Members?:language=en-GB&:display_count=n&:origin=viz_share_link
