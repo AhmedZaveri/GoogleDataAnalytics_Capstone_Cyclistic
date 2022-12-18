@@ -276,7 +276,3 @@ FROM #year_data_final
 WHERE member_casual = 'member' 
 GROUP BY end_station_name_clean 
 ORDER BY 2 DESC
-
-SELECT *
-FROM #year_data
-WHERE MONTH(CAST(started_at AS date)) = 8
